@@ -3,6 +3,7 @@
  */
 package microservices.book.multiplication.domain;
 
+import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
